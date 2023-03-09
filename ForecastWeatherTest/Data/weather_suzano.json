@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": -46.3108,
+    "lat": -23.5425
+  },
+  "weather": [
+    {
+      "id": 802,
+      "main": "Clouds",
+      "description": "nuvens dispersas",
+      "icon": "03d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 27.85,
+    "feels_like": 27.96,
+    "temp_min": 23.86,
+    "temp_max": 29.25,
+    "pressure": 1013,
+    "humidity": 46,
+    "sea_level": 1013,
+    "grnd_level": 932
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 1.91,
+    "deg": 324,
+    "gust": 2.51
+  },
+  "clouds": {
+    "all": 31
+  },
+  "dt": 1678382491,
+  "sys": {
+    "type": 1,
+    "id": 8379,
+    "country": "BR",
+    "sunrise": 1678352662,
+    "sunset": 1678397255
+  },
+  "timezone": -10800,
+  "id": 3447212,
+  "name": "Suzano",
+  "cod": 200
+}
