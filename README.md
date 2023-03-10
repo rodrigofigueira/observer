@@ -19,6 +19,19 @@ O objetivo principal é definir uma dependência um-para-muitos entre objetos pa
 - Clean Code
 - Observer Pattern
 
+## Configuração Necessária
+
+- Criar o arquivo appsetting.json na raiz do projeto
+- Definir as variáveis "openweathermap:api_key", como abaixo:
+
+```sh
+{
+  "openweathermap": {
+    "api_key": "SUA_KEY_DO_OPENWEATHERMAP"
+  }
+}
+```
+
 ## Melhorias que podem ser empregadas
 
 - [x] Implementar a interface gráfica
