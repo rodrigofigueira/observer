@@ -4,6 +4,8 @@ Projeto motivado pelo estudo do Design Pattern Observer
 
 O objetivo principal é definir uma dependência um-para-muitos entre objetos para que quando o estado de um objeto mude todos seus dependentes são avisados e atualizados automaticamente.
 
+Obs.: Como o foco da aplicação não é o consumo da API OpenWeatherMap, deixei fixo a latitude e altitude da minha cidade, Suzano.
+
 ![My Image](app.png)
 
 ## Tecnologias utilizadas
@@ -35,7 +37,7 @@ O objetivo principal é definir uma dependência um-para-muitos entre objetos pa
 ## Melhorias que podem ser empregadas
 
 - [x] Implementar a interface gráfica
-- [ ] Definir no README como definir a url para consulta
+- [x] Definir no README como definir a url para consulta
 - [ ] Permitir selecionar outra cidade além de Suzano
 
 ## Referências
