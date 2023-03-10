@@ -4,12 +4,12 @@ Projeto motivado pelo estudo do Design Pattern Observer
 
 O objetivo principal é definir uma dependência um-para-muitos entre objetos para que quando o estado de um objeto mude todos seus dependentes são avisados e atualizados automaticamente.
 
-## Como incluir um novo personagem
+![My Image](app.png)
 
 ## Tecnologias utilizadas
 
 - Dotnet 7
-- Windows Forms para UI ( ainda não implementado )
+- Windows Forms para UI
 - xUnit 
 - https://openweathermap.org/ para trazer informações do tempo
 
@@ -21,8 +21,9 @@ O objetivo principal é definir uma dependência um-para-muitos entre objetos pa
 
 ## Melhorias que podem ser empregadas
 
-- Implementar a interface gráfica
-- Definir no README como definir a url para consulta
+- [x] Implementar a interface gráfica
+- [ ] Definir no README como definir a url para consulta
+- [ ] Permitir selecionar outra cidade além de Suzano
 
 ## Referências
 
